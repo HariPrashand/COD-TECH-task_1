@@ -1,4 +1,4 @@
-# E-Commerce Website - COD TECH task 1
+# E-Commerce Website - COD TECH task 1 
 
 This is a E-Commerce Website. This project is based on HTML, CSS, JS.
 
